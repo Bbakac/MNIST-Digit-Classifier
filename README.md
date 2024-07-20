@@ -17,7 +17,7 @@ This project is a simple implementation of a Convolutional Neural Network (CNN) 
    git clone https://github.com/Bbakac/MNIST-Digit-Classifier.git
    cd MNIST-Digit-Classifier
    ```
-   1. ** Install the dependencies:**
+2. ** Install the dependencies:**
    ```bash
    pip install tensorflow numpy matplotlib
    ```
