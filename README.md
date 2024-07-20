@@ -19,11 +19,10 @@ Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/Bbakac/MNIST-Digit-Classifier.git
 cd MNIST-Digit-Classifier
-```bash
-```
 
 Install the required packages manually if not using a requirements file:
 pip install tensorflow numpy matplotlib
+
 
 Usage
 Run the project with the following command:
