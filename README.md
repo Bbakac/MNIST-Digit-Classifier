@@ -17,8 +17,9 @@ This project is a simple implementation of a Convolutional Neural Network (CNN) 
    git clone https://github.com/Bbakac/MNIST-Digit-Classifier.git
    cd MNIST-Digit-Classifier
    ```
-
+   ```bash
    pip install tensorflow numpy matplotlib
+   ```
 
 Running the Project
 Start Jupyter Notebook:
